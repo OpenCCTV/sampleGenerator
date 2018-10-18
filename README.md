@@ -1,3 +1,3 @@
 # About
-Generate monitor metrics samples for benchmarking.
 
+Generate monitor metrics sample data for benchmarking.
