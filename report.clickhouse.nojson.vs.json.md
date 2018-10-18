@@ -47,4 +47,4 @@ m表示 million 百万级别条记录，b 表示 billion 十亿级别条记录�
 
 ## Conclusion
 
-使用 JSON visitParamExtractString 类函数匹配在 亿级记录慢 2~6倍，在百亿级慢 3~41 倍 。
+使用 JSON visitParamExtractString 类函数匹配在 亿级记录慢 2-6倍，在百亿级慢 3-41 倍 。
